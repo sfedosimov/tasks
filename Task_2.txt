@@ -1,0 +1,8 @@
+Таблица book
+id name
+
+Таблица author
+id name
+
+Таблица book_author
+id book_id author_id
